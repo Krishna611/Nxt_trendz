@@ -181,24 +181,3 @@ Use these files to complete the implementation:
 > - Don't change the component folder names as those are the files being imported into the tests.
 > - **Do not remove the pre-filled code**
 > - Want to quickly review some of the concepts you’ve been learning? Take a look at the Cheat Sheets.
->
-
-
-# LIVE DEMO :-  <a href="https://chaitutrendz.ccbp.tech/">Nxt Trendz Application</a>
-
-### An Ecommerce Application 
-
-<h1>Login Details for Prime User</h1>
-
-<p>Username: rahul</p>
-
-<p>Password: rahul@2021</p>
-
-
-<h1>Login Details for non-Prime User</h1>
-
-<p>Username: raja</p>
-
-<p>Password: raja@2021</p>
-<hr>
-
