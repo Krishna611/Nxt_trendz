@@ -181,3 +181,14 @@ Use these files to complete the implementation:
 > - Don't change the component folder names as those are the files being imported into the tests.
 > - **Do not remove the pre-filled code**
 > - Want to quickly review some of the concepts you’ve been learning? Take a look at the Cheat Sheets.
+
+
+
+Prime User credentials
+
+ username: rahul
+ password: rahul@2021
+Non-Prime User credentials
+
+ username: raja
+ password: raja@2021
